@@ -1,0 +1,21 @@
+{
+  "name": "backend-takeufarward",
+  "version": "1.0.0",
+  "description": "This is assignment created by Alok Kumar for take u farward fte role.",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [
+    "takeufarward"
+  ],
+  "author": "Alok Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0"
+  }
+}
